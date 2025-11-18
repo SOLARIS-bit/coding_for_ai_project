@@ -1,0 +1,5 @@
+flask
+docxtpl
+pdfplumber
+transformers
+torch
